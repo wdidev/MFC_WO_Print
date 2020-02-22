@@ -53,7 +53,7 @@
       <x:Boolean x:Key="ShouldExpandAll">True</x:Boolean>
     </scg:Dictionary>
   </sap:WorkflowViewStateService.ViewState>
-  <Sequence DisplayName="Main 22-02-2020-13-59" sap:VirtualizedContainerService.HintSize="879,6091" sap2010:WorkflowViewState.IdRef="Sequence_2">
+  <Sequence DisplayName="Main 22-02-2020-14-02" sap:VirtualizedContainerService.HintSize="879,6091" sap2010:WorkflowViewState.IdRef="Sequence_2">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:String" Name="strFileIndex" />
       <Variable x:TypeArguments="sd:DataTable" Name="tableWO" />
@@ -551,7 +551,7 @@
                                             <av:PointCollection x:Key="ConnectorLocation">301,1155 328.5,1155 328.5,1101 631,1101 631,158 601,158</av:PointCollection>
                                           </scg:Dictionary>
                                         </sap:WorkflowViewStateService.ViewState>
-                                        <Sequence sap:VirtualizedContainerService.HintSize="705,1481" sap2010:WorkflowViewState.IdRef="Sequence_24">
+                                        <Sequence sap:VirtualizedContainerService.HintSize="200,66" sap2010:WorkflowViewState.IdRef="Sequence_24">
                                           <Sequence.Variables>
                                             <Variable x:TypeArguments="x:Boolean" Name="booOpenMFC" />
                                           </Sequence.Variables>
